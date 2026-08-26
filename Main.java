@@ -5,7 +5,9 @@
 package com.mycompany.main;
 
 /**
- *
+ *Name: Mudumela Mashaka
+ * Student Number:26095456
+ *  
  * @author MUDUMELA MASHAKA
  */
 import java.util.Scanner;
